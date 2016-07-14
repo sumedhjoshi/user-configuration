@@ -4,3 +4,4 @@ set ruler
 set autoindent
 syntax on
 color desert
+set hlsearch
